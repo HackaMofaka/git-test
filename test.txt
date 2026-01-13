@@ -1,2 +1,3 @@
 Hello Git
 So,I decided to add something to do my second commit!
+So,I did something else
